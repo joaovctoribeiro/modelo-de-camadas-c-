@@ -1,0 +1,44 @@
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Modelo em 3 camadas.exe.config
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Modelo em 3 camadas.exe
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Modelo em 3 camadas.pdb
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Npgsql.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Buffers.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Collections.Immutable.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Memory.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Numerics.Vectors.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Text.Json.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Threading.Channels.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.ValueTuple.dll
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\Npgsql.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Buffers.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Collections.Immutable.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Memory.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Numerics.Vectors.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Text.Json.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Threading.Channels.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\bin\Debug\System.ValueTuple.xml
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.csproj.AssemblyReference.cache
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo_em_3_camadas.Properties.Resources.resources
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.csproj.GenerateResource.cache
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.csproj.CoreCompileInputs.cache
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.csproj.CopyComplete
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.exe
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo em 3 camadas.pdb
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo_em_3_camadas.Forms.LoginForm.resources
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo_em_3_camadas.RegisterForm.resources
+C:\Projetos\Modelo em 3 camadas\Modelo em 3 camadas\obj\Debug\Modelo_em_3_camadas.Forms.MainForm.resources

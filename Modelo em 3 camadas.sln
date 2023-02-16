@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo em 3 camadas", "Modelo em 3 camadas\Modelo em 3 camadas.csproj", "{71BD612E-A90C-4A05-9F86-707228F28757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BD612E-A90C-4A05-9F86-707228F28757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BD612E-A90C-4A05-9F86-707228F28757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BD612E-A90C-4A05-9F86-707228F28757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BD612E-A90C-4A05-9F86-707228F28757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0197F138-0839-4693-8FCC-692639C41698}
+	EndGlobalSection
+EndGlobal
